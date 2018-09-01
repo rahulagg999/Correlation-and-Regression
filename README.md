@@ -37,3 +37,4 @@ Regression :
 ## Formula Used
 
 Karl's Pearson Coefficient : 
+![pearson](https://user-images.githubusercontent.com/42029942/44948406-74759800-ae3a-11e8-8877-6ecd3ea05b21.gif) 
